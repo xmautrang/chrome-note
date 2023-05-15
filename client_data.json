@@ -1,5 +1,5 @@
 {
-   client_id: "441023963490-u286p8fbnsm3pf07eqfd27f5nof1flo9.apps.googleusercontent.com",
-   client_secret: "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",
-   api_scope: "https://www.googleapis.com/auth/drive.file"
+   "client_id": "441023963490-u286p8fbnsm3pf07eqfd27f5nof1flo9.apps.googleusercontent.com",
+   "client_secret": "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",
+   "api_scope": "https://www.googleapis.com/auth/drive.file"
 }
